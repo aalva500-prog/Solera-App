@@ -1,7 +1,3 @@
-# 
- Oliver & Oliver Control of the Solera
-
-
 ## Author: Aaron Alvarez
 
 ## Java GUI App with database integration: Solera-Application
